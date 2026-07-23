@@ -18,8 +18,8 @@ Or if you're using the tar file:
 {
     "name": "your-project",
     "dependencies": {
--       "rh-iconfont": "https://gitlab.corp.redhat.com/uxdd/rh-iconfont/-/archive/4.1.0/rh-iconfont-4.1.0.tar.gz"
-+       "rh-iconfont": "https://github.com/RedHatOfficial/rh-iconfont/archive/4.1.0.tar.gz"
+-       "rh-iconfont": "https://gitlab.corp.redhat.com/uxdd/rh-iconfont/-/archive/5.1.0/rh-iconfont-5.1.0.tar.gz"
++       "rh-iconfont": "https://github.com/RedHatOfficial/rh-iconfont/archive/5.1.0.tar.gz"
     },
 }
 ```
@@ -34,8 +34,8 @@ Please send an email to [web@redhat.com](mailto:web@redhat.com)
 
 1. Run `npm install`
 2. If you are on a Mac, run `brew install ttfautohint fontforge`
-    b. Linux: `sudo apt-get install fontforge ttfautohint`
-    c. Windows: See instructions on [https://github.com/sapegin/grunt-webfont](https://github.com/sapegin/grunt-webfont)
+    1. Linux: `sudo apt-get install fontforge ttfautohint`
+    2. Windows: See instructions on [https://github.com/sapegin/grunt-webfont](https://github.com/sapegin/grunt-webfont)
 
 
 Run `grunt` to compile the repository
