@@ -33,9 +33,10 @@ Please send an email to [web@redhat.com](mailto:web@redhat.com)
 ### Setup
 
 1. Run `npm install`
-2. If you are on a Mac, run `brew install ttfautohint fontforge`
-    1. Linux: `sudo apt-get install fontforge ttfautohint`
-    2. Windows: See instructions on [https://github.com/sapegin/grunt-webfont](https://github.com/sapegin/grunt-webfont)
+2. Install the font build tools for your operating system:
+   - macOS: `brew install ttfautohint fontforge`
+   - Linux: `sudo apt-get install fontforge ttfautohint`
+   - Windows: See the [grunt-webfont instructions](https://github.com/sapegin/grunt-webfont).
 
 
 Run `grunt` to compile the repository
