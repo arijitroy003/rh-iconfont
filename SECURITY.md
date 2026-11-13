@@ -14,6 +14,8 @@ Instead, report security issues by emailing the Red Hat Product Security team:
 For more information on Red Hat's vulnerability response process, visit:
 https://access.redhat.com/security/team/contact/
 
-## Supported Versions
+## Maintenance and Support
 
-Security updates are applied to the latest release. Older versions are not actively supported.
+This document does not establish a maintenance policy or support commitment for
+any release. For current reporting procedures and response expectations, follow
+[Red Hat Product Security's published guidance](https://access.redhat.com/security/team/contact/).
